@@ -9,7 +9,6 @@ A brief description of what your project does and who it's for.
 - [Setup](#setup)
 - [Usage](#usage)
 - [Files](#files)
-- [License](#license)
 - [Contributing](#contributing)
 
 ## Overview
